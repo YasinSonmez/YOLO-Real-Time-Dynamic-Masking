@@ -1,6 +1,6 @@
 # Real-Time Screen Object Detection and Masking
 
-This project implements a real-time object detection system that overlays bounding boxes around detected objects on your screen. It utilizes the YOLO (You Only Look Once) model for object detection, combined with a PyQt5 application for the overlay, to highlight objects of interest directly on your monitor.
+This project implements a real-time object detection system that overlays bounding boxes around detected objects on your screen. It utilizes the YOLOv8 (You Only Look Once) model for object detection, combined with a PyQt5 application for the overlay, to highlight objects of interest directly on your monitor.
 
 ## Key Features
 
