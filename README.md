@@ -17,7 +17,7 @@ https://github.com/YasinSonmez/YOLO-Real-Time-Dynamic-Masking/assets/37510173/e9
 
 ### Prerequisites
 
-Ensure you have Python 3.6 or later installed on your machine. This project also requires a YOLO model file (`yolov8s.pt` or similar) that must be obtained separately and placed in an accessible directory.
+Ensure you have Python 3.6 or later installed on your machine. This project also requires a YOLO model file (`yolov8s.pt` or similar) but it will be automatically downloaded if you don't have it on your local disk.
 
 ### Installation
 
